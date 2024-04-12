@@ -1,3 +1,22 @@
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=🫲Jongwoo%20Baeck🫱&fontSize=90" />  
+</h1>
+
+<h2 align="center">
+  신입 프론트엔드 개발자 백종우 입니다 👤
+</h2>
+
+<p align="center">
+  제가 작성하는 코드 한 글자가 누군가에게 어떤 영향을 끼칠 수 있을지 늘 고민합니다.
+  <br />
+</p>
+
+<p align="center">
+  결과가 아닌 이유를 쫓아 탐구하여 단순한 문제 해결이 아닌, 매 순간 변할 수 있는 최선의 방법을 위해 고민하고 탐구하는 개발자가 되고 싶습니다.
+</p>
+
+
+
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
