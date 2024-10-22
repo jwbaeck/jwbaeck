@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=🫲Jongwoo%20Baeck🫱&fontSize=90" />  
-</h1>
-
 <h2 align="center">
   프론트엔드 개발자 백종우 입니다 👤
 </h2>
